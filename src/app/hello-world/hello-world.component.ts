@@ -9,6 +9,8 @@ export class HelloWorldComponent implements OnInit {
 	constructor() {}
 
 	ngOnInit(): void {
+		// we can disable the console logging by eslintrc configuration
+		// "no-console"
 		console.log('This is hello');
 	}
 }
