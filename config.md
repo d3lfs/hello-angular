@@ -151,5 +151,5 @@ esbenp.prettier-vscode
 
 
 # WSLGIT for Windows and install the package as well
-![WSLGIT setup](https://github.com/slypy/wslgit)
+[WSLGIT setup repository](https://github.com/slypy/wslgit)
 
