@@ -150,6 +150,6 @@ esbenp.prettier-vscode
 `"lint": "ng lint --fix"` (optional)
 
 
-# WSLGIT for Windows
+# WSLGIT for Windows and install the package as well
 ![WSLGIT setup](https://github.com/slypy/wslgit)
 
