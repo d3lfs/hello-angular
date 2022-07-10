@@ -14,5 +14,3 @@ export class HelloWorldComponent implements OnInit {
 		console.log('This is hello');
 	}
 }
-
-function name(params: boolean) {}

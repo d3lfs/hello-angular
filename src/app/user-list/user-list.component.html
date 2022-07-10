@@ -1,0 +1,7 @@
+<ul>
+	<!-- *ngFor is a for loop in general -->
+	<li *ngFor="let userName of names">
+		<!-- pass the name variable userName to name variable of user-item component-->
+		<app-user-item [name]="userName"></app-user-item>
+	</li>
+</ul>
